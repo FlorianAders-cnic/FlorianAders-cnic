@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Florian Aders and I'm working as Backend Software Engineer for the CentralNic Group PLC.
+
+
 <!--
 **FlorianAders-cnic/FlorianAders-cnic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
